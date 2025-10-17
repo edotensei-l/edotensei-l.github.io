@@ -1,5 +1,5 @@
 ## Just some notes
 
-- [Bluetooth/](test1/)
+- [Bluetooth and BLE/](BLE/BT/)
 
 ---
